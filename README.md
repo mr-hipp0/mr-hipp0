@@ -57,13 +57,7 @@ I'm a student who enjoys learning about security, AI, and hardware. Outside of t
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dinosaur running and jumping over obstacles" width="600" />
-</p>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6C85F6&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%99%8F" alt="Thanks for visiting!" />
